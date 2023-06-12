@@ -1,0 +1,10 @@
+* gettext
+
+A port of gettext runtime to Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rotatef/gettext.git   |
+| commit  | a432020  |
+| systems | gettext |
+|---------+-------------------------------------------|
+
