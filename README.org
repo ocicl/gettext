@@ -8,4 +8,4 @@ A port of gettext runtime to Common Lisp
 | systems | gettext |
 |---------+-------------------------------------------|
 
- 
+  
